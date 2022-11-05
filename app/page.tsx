@@ -3,7 +3,7 @@ import { useState } from 'react';
 import Image from 'next/image'
 
 const CONFIG = {
-  "backend_url": "https://buo6tp1cx7.execute-api.ap-south-1.amazonaws.com/dev/inference"
+  "backend_url": "https://y7vl75xfx7.execute-api.us-east-1.amazonaws.com/dev/inference"
 }
 
 export default function Home() {
